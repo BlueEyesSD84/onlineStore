@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./product.css"
 import QuantityPicker from "./quantityPicker";
 
@@ -7,7 +6,7 @@ const Product = () =>  {
         <img src="https://picsum.photos/200/300" alt="product"></img>
 
 
-    <h5>This is a product</h5>
+    <h5 class='product-h5'>This is a product</h5>
     
     <QuantityPicker></QuantityPicker>
     </div>    

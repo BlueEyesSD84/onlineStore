@@ -1,5 +1,17 @@
 .quantyPicker{
     border-top: 2px solid red;
     text-align: center;
-    padding-top: 12px;
+}
+
+.qt-picker{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.increase{
+    margin-right: 5px;
+    background-color: green;
+}
+.decrease{
+    margin-left: 5px;
+    background-color: red;
 }

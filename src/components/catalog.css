@@ -6,8 +6,10 @@
 .catalog .product {
     display: inline-block;
     width: 280px;
-    height: 320px;
-    border: 1px solid red;
-    margin-bottom:  10px;
+    height: 350px;
+    margin-bottom:  60px;
     margin-left: 10px;
+}
+.catalog {
+    background-color: lightgray;
 }
