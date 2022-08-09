@@ -5,6 +5,7 @@ import AboutMe from './components/aboutMe';
 import Catalog from './components/catalog';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
+import ShoppingList from './components/shoppingList'
 
 
 function App() {
@@ -14,9 +15,11 @@ function App() {
 
       <Catalog></Catalog>
 
-<AboutMe />
+      <AboutMe />
 
       <Footer></Footer>
+
+     <ShoppingList></ShoppingList>
     </div>
   );
 }

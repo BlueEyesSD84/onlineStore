@@ -13,3 +13,6 @@
 .catalog {
     background-color: lightgray;
 }
+.catalog .btn{
+    margin-left: 5px;
+}
