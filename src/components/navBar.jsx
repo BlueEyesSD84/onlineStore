@@ -1,7 +1,6 @@
 //compontes must return someting, simple functions
 //must export componet.
 import React from "react";
-import navBar from "./navBar.css"
 import bootstrapMin from "bootstrap/dist/js/bootstrap.min";
 
 const NavBar = () => {
@@ -27,14 +26,6 @@ const NavBar = () => {
     </div>
   </div>
 </nav>
-  
-  
-  
-  )
-  //return (<div className="navBar"><h5>NavBar will be here later</h5></div>
-  //)
-
-  
-};
+  )};
 
 export default NavBar;

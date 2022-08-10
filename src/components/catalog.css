@@ -16,3 +16,9 @@
 .catalog .btn{
     margin-left: 10px;
 }
+.catalog .catList{
+    color: blue;
+}
+.catalog{
+    padding-bottom: 30px;
+}

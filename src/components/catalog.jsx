@@ -32,9 +32,10 @@ useEffect(() => {
 
     return (
         <div className="catalog">
-<h1>JA JA Designs</h1>
+<h1>Welcome to JA JA Designs</h1>
 
 <div className="uniques">
+    <h4 className="catList">Category List</h4>
     {categories.map((cat) => (
         <button key={cat} className='btn btn-sm btn-success'>{cat}</button>
     ))}

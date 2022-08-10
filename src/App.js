@@ -17,9 +17,11 @@ function App() {
 
       <AboutMe />
 
+      <ShoppingList></ShoppingList>
+      
       <Footer></Footer>
 
-     <ShoppingList></ShoppingList>
+     
     </div>
   );
 }
